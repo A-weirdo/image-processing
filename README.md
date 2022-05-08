@@ -47,6 +47,8 @@ and then we have matris of Correlation Coefficient and for looking the pieces we
 
 
 also gray mode: 
+
+
 ![gray main](https://github.com/A-weirdo/image-processing/blob/main/main%20gray.png)
 
 
